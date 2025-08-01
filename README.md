@@ -35,14 +35,6 @@ I'm a Computer Science student with a background in competitive robotics and a f
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
-<div style="display: flex; gap: 16px; margin: 0px 0;">
-
-### ![Contributions](https://img.shields.io/badge/Total%20Contributions-1.2k-orange?style=flat-square)
-
-
-### ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-25-blue?style=flat-square)
-
-### ![Profile Views](https://komarev.com/ghpvc/?username=ridxm&color=58A6FF&style=flat-square&label=Profile+Views)
-
-
-</div>
+![Contributions](https://img.shields.io/badge/Total%20Contributions-1.2k-orange?style=flat-square)
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-25-blue?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ridxm&color=58A6FF&style=flat-square&label=Profile+Views)
