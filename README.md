@@ -36,5 +36,4 @@ I'm a Computer Science student with a background in competitive robotics and a f
 
 ---
 ![Contributions](https://img.shields.io/badge/Total%20Contributions-1.2k-orange?style=flat-square)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-25-blue?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=ridxm&color=58A6FF&style=flat-square&label=Profile+Views)
