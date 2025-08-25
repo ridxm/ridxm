@@ -11,9 +11,8 @@
 
 ## 👋 About Me
 
-I'm a Computer Science student with a background in competitive robotics and a focus on applied machine learning. I enjoy working on systems that are technically solid, practically useful, and well-designed.
+i'm a cs student with a background in competitive robotics and a focus on applied machine learning. i enjoy working on systems that are technically solid, practically useful, and well-designed.
 
-- 🎓 Studying Computer Science at Rutgers University 
 - 🤖 6+ years of robotics  
 - 🔍 Focused on: machine learning, human-AI interaction, and deployment  
 - 📚 Currently exploring scalable ML workflows  
