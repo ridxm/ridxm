@@ -1,5 +1,3 @@
-<h1 align="center">Riddhima Medatwal | AI/ML & Robotics</h1>
-
 ## 👋 about me
 
 i'm a cs student with a background in competitive robotics and a focus on applied machine learning. i enjoy working on systems that are technically solid, practically useful, and well-designed.
