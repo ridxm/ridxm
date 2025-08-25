@@ -1,14 +1,5 @@
 <h1 align="center">Riddhima Medatwal | AI/ML & Robotics</h1>
 
-<p align="center">
-  <a href="https://linkedin.com/in/riddhima-medatwal">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:riddhima.medatwal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ## 👋 about me
 
 i'm a cs student with a background in competitive robotics and a focus on applied machine learning. i enjoy working on systems that are technically solid, practically useful, and well-designed.
