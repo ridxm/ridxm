@@ -7,7 +7,7 @@ i'm a cs student with a background in competitive robotics and a focus on applie
 - 📚 Currently exploring scalable ML workflows  
 - 💬 Reach me at [Email](mailto:riddhima.medatwal@gmail.com) or [LinkedIn](https://linkedin.com/in/riddhima-medatwal)
 
-## 💻 tech stack:
+## 💻 tech stack
 
 **programming languages:**
 
